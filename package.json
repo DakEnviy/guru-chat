@@ -70,7 +70,7 @@
         "string.prototype.includes": "^1.0.0",
         "subscriptions-transport-ws": "^0.9.16",
         "universal-router": "^8.3.0",
-        "uuidv4": "^6.0.7",
+        "uuidv4": "^6.2.13",
         "whatwg-fetch": "^3.0.0"
     },
     "devDependencies": {
